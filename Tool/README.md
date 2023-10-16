@@ -49,6 +49,7 @@ Auto
 
 -l, --letter           password type (letter)
 
+
 -n, --number           password type (number)
 
 -m, --mix              password type (mixed password)
